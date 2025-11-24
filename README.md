@@ -14,17 +14,6 @@ Este projeto realiza uma **Análise Exploratória de Dados (EDA)** utilizando o 
 
 ---
 
-## 🗂 Estrutura do Projeto
-
-```
-├── data/
-│   └── listings.csv
-├── rio-airbnb.ipynb
-└── README.md
-```
-
----
-
 ## ⚙️ Tecnologias Utilizadas
 
 - **Python 3**
